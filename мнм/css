@@ -1,0 +1,10 @@
+<html>
+<head> <title>Гороскоп обо мне</title> </head>
+<body bgcolor="springgreen">
+<h1 align=center>Мой гороскоп</h1>
+<h2 align=center>По знаку зодиака я - дева</h2>
+<p></p>
+<p><A HREF="page3.html">Назад</A></p>
+<p><A HREF="page5.html">Вперёд</A></p>
+<p><A HREF="index.html">На главную</A></p>
+</body> </html> 
