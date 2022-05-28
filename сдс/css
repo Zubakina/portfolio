@@ -1,0 +1,10 @@
+<html>
+<head> <title>Мои фотографии</title> </head>
+<body bgcolor="springgreen">
+<h1 align=center>А сейчас вы можете посмотреть мои фотографии</h1>
+<p></p>
+<p align=right></p>
+<p><A HREF="page1.html">Назад</A></p>
+<p><A HREF="page3.html">Вперёд</A></p>
+<p><A HREF="index.html">На главную</A></p>
+</body> </html> 
